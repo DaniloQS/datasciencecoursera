@@ -1,2 +1,2 @@
-datasciencecoursera
+sudo apt-get install git
 ===================
